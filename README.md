@@ -1,4 +1,4 @@
-# Kubernetes Lab
+# Shipyard
 This repository contains kubernetes manifest files to deploy various kubernetes objects for learning and testing different K8S concepts.
 
 ## Prerequisites
